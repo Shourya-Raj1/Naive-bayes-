@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-from utils.preprocessing import preprocess_data
+
 from utils.eda import show_eda
 from utils.model import train_model, predict_sample
 from utils.evaluation import evaluate_model
