@@ -66,3 +66,7 @@ This project is designed for students and beginners to understand machine learni
 ## 📄 License
 
 This project is for educational purposes.
+
+---
+
+## Made by Shourya Raj
